@@ -12,3 +12,6 @@ The data was retrieved from Davidson et al. (2017) and it can be downloaded from
 - 0 for hate speech
 - 1 for offensive content
 - 2 for tweets not falling into the previous categories
+
+### Code and Reproducibility
+The solution is written with Python 3 in Google Colab for easier reproducibility of the results. The link to run the code can be found by clicking on the main.ipynb file of this Github repository where there will be a button directing the user to Colab. Once connected to the "Python 3 Google Compute Engine backend" it will be sufficient to upload the labeled_data.csv file in the dedicated section of the notebook.
