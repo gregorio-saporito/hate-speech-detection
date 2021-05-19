@@ -14,7 +14,7 @@ The data was retrieved from Davidson et al. (2017) and it can be downloaded from
 - 2 for tweets not falling into the previous categories
 
 ### Code and Reproducibility
-The solution is written with Python 3 in Google Colab for easier reproducibility of the results. The link to run the code can be found by clicking on the main.ipynb file of this Github repository where there will be a button directing the user to Colab. Once connected to the "Python 3 Google Compute Engine backend" it will be sufficient to upload the labeled_data.csv file in the dedicated section of the notebook.
+The solution is written with Python 3 in Google Colab for easier reproducibility of the results. The link to run the code can be found by clicking on the main.ipynb file of this Github repository where there will be a button directing the user to Colab. Alternatively, you can directly click on the button here: <a href="https://colab.research.google.com/github/gregorio-saporito/hate-speech-detection/blob/main/main.ipynb" target="_parent"><img src="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a>. Once connected to the "Python 3 Google Compute Engine backend" it will be sufficient to upload the labeled_data.csv file in the dedicated section of the notebook.
 
 ![alt text](https://github.com/gregorio-saporito/hate-speech-detection/blob/main/plots/Capture.PNG)
 
